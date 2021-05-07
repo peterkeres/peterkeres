@@ -1,4 +1,10 @@
-### Hi there 👋
+### Yo, im a guy named peter :greece:
+*Shout out to all my other peters: Peter Jackson, Peter Maravich, Peter Pan, and Peter the Rabbit*
+
+
+![Header Image](profile_header.png)
+
+
 
 <!--
 **peterkeres/peterkeres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
