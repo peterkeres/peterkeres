@@ -16,10 +16,10 @@
         <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue"/>
     </a>
     <a href="https://drive.google.com/file/d/1Eqz0NKZNm0pEiKds11Kn57Y8IJZaSXdG/view?usp=sharing">
-        <img alt="Resume" src="https://img.shields.io/badge/Resume-%231DA1F2.svg?&style=for-the-badge&logo=google drive&logoColor=green&color=lightblue"/>
+        <img alt="Resume" src="https://img.shields.io/badge/Resume-%231DA1F2.svg?&style=for-the-badge&logo=DocuSign&logoColor=red&color=lightblue"/>
     </a>
     <a href="https://drive.google.com/file/d/1ZQKYXies5m3nZSCsQdmoGxi4XM3TQ4_L/view?usp=sharing">
-        <img alt="CV" src="https://img.shields.io/badge/CV-%231DA1F2.svg?&style=for-the-badge&logo=google drive&logoColor=red&color=lightblue"/>
+        <img alt="CV" src="https://img.shields.io/badge/CV-%231DA1F2.svg?&style=for-the-badge&logo=googledrive&logoColor=red&color=lightblue"/>
     </a>
 </p>
 
