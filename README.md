@@ -13,9 +13,9 @@
     <a href="mailto: pkeresdev@gmail.com">
         <img alt="Email" src="https://img.shields.io/badge/Email-%231DA1F2.svg?&style=for-the-badge&logo=Gmail&logoColor=red&color=gray"/>
     </a>
-    <a href="https://pkeres.com">
+<!--     <a href="https://pkeres.com">
         <img alt="WebSite" src="https://img.shields.io/badge/WebSite-%231DA1F2.svg?&style=for-the-badge&logo=HomeAdvisor&logoColor=red&color=gray"/>
-    </a>
+    </a> -->
     <a href="https://www.linkedin.com/in/peter-keres-dev">
         <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=red&color=gray"/>
     </a>
@@ -30,7 +30,7 @@
 
 <p align="center">
     <a href="https://twitter.com/PkeresDev">
-    <img alt="Twitter" src="https://github-readme-twitter.gazf.vercel.app/api?id=pkeresdev&layout=wide&show_retweet=off&show_replay=off&show_border=on"/>
+    <img alt="Twitter" src="https://img.shields.io/badge/X (Twitter)-%231DA1F2.svg?&style=for-the-badge&logo=X&logoColor=red&color=gray"/>
     </a>
 </p>
 
@@ -60,7 +60,7 @@ If my skills, experience, or personality seems like a great fit for your team. P
 
 *Note: Any views/statements within this page DOES NOT reflect the views of my employer/team. Also, any views/statements made by said employer/team DOES NOT reflect the views of me, the individual.*
 
-
+<!--
 ## STATS STATS STATS STATS, EVERYBODY
 <p align="center">
     <img alt="More Github Stats" src="https://github-readme-stats.vercel.app/api?username=peterkeres&show_icons=true&count_private=true&theme=dark"/>
@@ -71,6 +71,7 @@ If my skills, experience, or personality seems like a great fit for your team. P
         <img alt="Stack Overflow" src="https://github-readme-stackoverflow.vercel.app/?userID=15902341&theme=dark"/>
     </a>
 </p>
+-->
 
 
 ## <>
